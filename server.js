@@ -1,1 +1,1 @@
-const conf = require('./server/conf/conf');
+const conf = require('./server/conf');
